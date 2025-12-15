@@ -1,0 +1,10 @@
+/build/
+/dist/
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+/*.iml
+/.idea/
+/.DS_Store
+Thumbs.db
